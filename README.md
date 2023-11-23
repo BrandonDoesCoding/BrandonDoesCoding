@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brandon</h1>
-<h2 align="center">When life gives you syntax errors, put your harddrive in the microwave.</h3>
+<h2 align="center">When life gives you syntax errors, put your hard drive in the microwave.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
